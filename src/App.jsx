@@ -10,6 +10,7 @@ import {AddTransaction} from './components/AddTransaction'
 import {GlobalProvider} from './components/context/GlobalState'
 
 class App extends React.Component{
+    
     render(){
         return(
             <GlobalProvider>
